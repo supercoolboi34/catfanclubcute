@@ -3,6 +3,6 @@
             "SHOWTIME",
             "ESPADA",
             "TWENTYTHOUSANDLIKES",
-            "SORRYFORTHEWAITTWO"
+            "SORRYFORTHEWAITTWO",
             "ENYU"
         }
