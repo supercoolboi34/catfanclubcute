@@ -1,8 +1,8 @@
-        local codes = {
-            "RELEASE",
-            "SHOWTIME",
-            "ESPADA",
-            "TWENTYTHOUSANDLIKES",
-            "SORRYFORTHEWAITTWO",
-            "ENYU",
-        }
+return {
+    "RELEASE",
+    "SHOWTIME",
+    "ESPADA",
+    "TWENTYTHOUSANDLIKES",
+    "SORRYFORTHEWAITTWO",
+    "ENYU"
+}
