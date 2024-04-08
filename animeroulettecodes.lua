@@ -1,7 +1,5 @@
 return {
-    "RELEASE",
+    "TENMILLIONVISITS",
     "SHOWTIME",
-    "ESPADA",
-    "THIRTYTHOUSANDLIKES",
-    "EASTERLUVU"
+    "WANOSOON",
 }
