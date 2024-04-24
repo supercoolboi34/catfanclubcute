@@ -1,5 +1,6 @@
 return {
-    "TENMILLIONVISITS",
+    "ELEVENMILLION",
     "SHOWTIME",
-    "WANOSOON",
+    "WANOHERE",
+    "WANOISREAL",
 }
