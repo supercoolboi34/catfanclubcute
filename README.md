@@ -1,2 +1,3 @@
-# Script Hub - Made by @supercoolboi34 & hiddenmotion 
-# Credits: epoiw all time updates
+# Made by @supercoolboi34 & @hiddenmotion
+# Credits: Ui Rayfield [sirius.menu]
+# Mostly Maintained & Updated by supercoolboi34
