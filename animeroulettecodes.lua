@@ -1,6 +1,7 @@
 return {
-    "ELEVENMILLION",
+    "THIRTEENMILLION",
     "SHOWTIME",
-    "WANOHERE",
-    "WANOISREAL",
+    "DEMONSLAYER",
+    "HASHIRA",
+    "WRONGTIME",
 }
