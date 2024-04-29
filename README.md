@@ -1,3 +1,3 @@
-# Made by @supercoolboi34 & @hiddenmotion
+# Made by @supercoolboi34. & @hiddenmotion
 # Credits: Ui Rayfield [sirius.menu]
-# Mostly Maintained & Updated by supercoolboi34
+# Mostly Maintained & Updated by @supercoolboi34.
