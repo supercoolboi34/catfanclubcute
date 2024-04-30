@@ -4,4 +4,5 @@ return {
     "DEMONSLAYER",
     "HASHIRA",
     "WRONGTIME",
+    "FOURTEENMILLION",
 }
