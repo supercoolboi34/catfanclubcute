@@ -5,4 +5,7 @@ return {
     "HASHIRA",
     "WRONGTIME",
     "FOURTEENMILLION",
+    "PARISTEXAS",
+    "ANOTHAONE",
+
 }
