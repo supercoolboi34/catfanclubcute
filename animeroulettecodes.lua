@@ -7,5 +7,4 @@ return {
     "FOURTEENMILLION",
     "PARISTEXAS",
     "ANOTHAONE",
-
 }
